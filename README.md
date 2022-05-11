@@ -1,4 +1,10 @@
 ### Hi there 👋
+My Name is Duc Tran and I am a Software Developer.
+
+- 🔭 I’m currently studying Computer Science, especially Mediainformatics and Interactive Entertainment.
+- 🌱 I’m currently learning Full Stack Web Development and Machine Learning
+- 💬 Ask me about anything related to Web Development. 
+- ⚡ Fun fact: I am asian, so I must be good at programming :)
 
 <!--
 **Ducz01/Ducz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
