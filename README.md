@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently working on projects where I combine AI and Web Development.<br>I'm currently learning about image classification.<br>Ask me about anything about Web Development, AI or Video Games.<br>Fun Fact: I am asian, so I must be good at Computer Science!
 
-Check out my personal website: https://ducz.de/#/
+Check out my personal website: https://ducz.de/
 
 
 ## 🌐 Socials:
