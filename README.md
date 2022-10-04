@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently working on projects where I combine AI and Web Development.<br>I'm currently learning about image classification.<br>Ask me about anything about Web Development, AI or Video Games.<br>Fun Fact: I am asian, so I must be good at Computer Science!
 
+Check out my personal website: https://ducz.de/#/
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ducz01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thinh-duc-tran-14a567205/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ducz01) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ducz01) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Ducz01) 
