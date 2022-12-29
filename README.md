@@ -16,9 +16,6 @@ Check out my personal website: https://ducz.de/
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ducz01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ducz01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ducz01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -31,5 +28,5 @@ Check out my personal website: https://ducz.de/
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ducz01) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
   
